@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\bootstrap-5.2.1-dist\\css"
+		},
+		{
+			"path": "..\\bootstrap-5.2.1-dist\\js"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto-1"
+	}
+}
